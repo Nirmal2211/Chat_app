@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "21528469527",
+    "firebase_url": "https://chat-room-9da05-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "chat-room-9da05",
+    "storage_bucket": "chat-room-9da05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21528469527:android:49fb940f31244202e67c52",
+        "android_client_info": {
+          "package_name": "com.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21528469527-lh7f2fh1evj844qn8m65vngt5urf9a1p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.demo",
+            "certificate_hash": "7d2ee470ba9e87df7b0751c568053084260e621a"
+          }
+        },
+        {
+          "client_id": "21528469527-gfrj2vmijvvlm02l9qq2e3kqfeiot2gj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB5xD2DzJ15Ff6s9DK4wWBdR6DYkJsuQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21528469527-gfrj2vmijvvlm02l9qq2e3kqfeiot2gj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

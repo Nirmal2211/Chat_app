@@ -1,7 +1,6 @@
 package com.demo
-
+import android.os.Bundle;
 import android.os.Build
-import android.os.Bundle
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
@@ -58,4 +57,5 @@ class MainActivity : ReactActivity() {
       // because it's doing more than [Activity.moveTaskToBack] in fact.
       super.invokeDefaultOnBackPressed()
   }
+  
 }
